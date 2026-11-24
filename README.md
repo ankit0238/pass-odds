@@ -42,4 +42,4 @@ No install needed. Download `index.html` and open it in any browser.
 
 ## Disclaimer
 
-An independent community tool. Not official MyFundedPerps software and not affiliated with them. Built with AI assistance (Claude) and tested.
+An independent community tool. Not official MyFundedPerps software and not affiliated with them. 
